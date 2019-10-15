@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\bin\Debug\2-Construtors.exe.config
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\bin\Debug\2-Construtors.exe
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\bin\Debug\2-Construtors.pdb
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\obj\Debug\2-Construtors.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\obj\Debug\2-Construtors.exe
+C:\Users\Nitro\Desktop\github\2-Construtors\2-Construtors\obj\Debug\2-Construtors.pdb
