@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\bin\Debug\7-Properties.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\bin\Debug\7-Properties.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\bin\Debug\7-Properties.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\obj\Debug\7-Properties.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\obj\Debug\7-Properties.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\7-Properties\7-Properties\obj\Debug\7-Properties.pdb
