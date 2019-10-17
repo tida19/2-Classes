@@ -26,7 +26,7 @@ namespace _1_IntroductionToClasses
         static void Main(string[] args)
         {
 
-            var person = Person.Parse("Tiger");
+            var person = Person.Parse("Tida");
 
             
             person.Introduction("Tida");
