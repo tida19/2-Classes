@@ -1,0 +1,6 @@
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\bin\Debug\8-Indexers.exe.config
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\bin\Debug\8-Indexers.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\bin\Debug\8-Indexers.pdb
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\obj\Debug\8-Indexers.csprojAssemblyReference.cache
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\obj\Debug\8-Indexers.exe
+C:\Users\Nitro\Desktop\หลักฐานโปรเจคใหม่\2.Classes\8-Indexers\8-Indexers\obj\Debug\8-Indexers.pdb
